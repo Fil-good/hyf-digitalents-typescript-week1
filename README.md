@@ -1,4 +1,4 @@
-# hyf-digitalents-typescript-week1
+# hyf-digitalents-typescript-week1 
 3 exercises to master JavaScript
 
 ## Assessment 1: Multiples 
